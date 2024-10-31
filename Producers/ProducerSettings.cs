@@ -1,11 +1,11 @@
 ﻿namespace Inator.Messaging.Integration.Producers
 {
-    public record ProducerParams
+    public record ProducerSettings
     {
         public string Server { get; set; }
 
 
-        public ProducerParams(string server)
+        public ProducerSettings(string server)
         {
             Server = server;
         }
