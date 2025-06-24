@@ -16,7 +16,7 @@ To use this library, follow the steps below to configure the necessary component
 
 Add the library to your project:
 
-`dotnet add package YourMessagingLibraryName` 
+`dotnet add package Inator.Messaging.Integration` 
 
 ## Usage
 
